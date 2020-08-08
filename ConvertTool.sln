@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertToolApp", "WindowsFormsApp1\ConvertToolApp.csproj", "{BAC08561-3C42-4E11-9768-6F0629D14CF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{463D20CF-3BC9-4620-AFCF-3B0197605038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAC08561-3C42-4E11-9768-6F0629D14CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC08561-3C42-4E11-9768-6F0629D14CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC08561-3C42-4E11-9768-6F0629D14CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC08561-3C42-4E11-9768-6F0629D14CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{463D20CF-3BC9-4620-AFCF-3B0197605038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463D20CF-3BC9-4620-AFCF-3B0197605038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463D20CF-3BC9-4620-AFCF-3B0197605038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463D20CF-3BC9-4620-AFCF-3B0197605038}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B3B7AB0-4B9A-420F-A316-086B484B5181}
+	EndGlobalSection
+EndGlobal
